@@ -5,7 +5,7 @@ import random
 
 
 class Simple0:
-    doc = Et.parse("/Users/navkar14/Desktop/Smart Learning/code/sentence/templates/simple0.xml")
+    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/simple0.xml")
     # doc = Et.parse("C:\\Users\\payal\\Desktop\\Navkar\\Smart_Learning\\code\\sentence\\templates\\simple0.xml")
     root = doc.getroot()
     arr0 = []
@@ -33,7 +33,7 @@ class Simple0:
                         # print(type(class0))
                         # class0["TAG"]
                         noun_dict = open(
-                            "/Users/navkar14/Desktop/Smart Learning/code/sentence/noun_dict"
+                            "/Users/navkar14/Desktop/smart-learning/code/sentence/noun_dict"
                             "/proper_nouns.txt")
                         f1 = noun_dict.readlines()
                         for i in f1:
@@ -41,7 +41,7 @@ class Simple0:
                             gender = random.choice(gender_list)
                             # while flag==0:
 
-                            if i.find(class0["TAG"] + ":", 0) == 0:
+                            if i.find(class0["class"] + ":", 0) == 0:
                                 if i.find(random.choice(gender_list), 0) >= 0:
                                     temp = i.split(":")
                                     temp.remove("\n")
@@ -55,7 +55,7 @@ class Simple0:
                         for sub_child in child:
                             if sub_child.tag == "CNOUN":
                                 class0 = sub_child.attrib
-                                c_noun=open("/Users/navkar14/Desktop/Smart Learning/code/sentence/noun_dict/"
+                                c_noun = open("/Users/navkar14/Desktop/smart-learning/code/sentence/noun_dict/"
                                             "common_nouns.txt")
                                 # c_noun = open(
                                 #     "C:\\Users\\payal\\Desktop\\Navkar\\Smart_Learning\\code\\sentence\\noun_dict"
@@ -63,7 +63,7 @@ class Simple0:
                                 f1 = c_noun.readlines()
                                 for i in f1:
                                     print(i)
-                                    if i.find(class0["TAG"] + ":", 0) == 0:
+                                    if i.find(class0["class"] + ":", 0) == 0:
                                         if i.find(arr1[0]+":", 0) >  0:
                                             print(class0)
                                             print(arr1[0])

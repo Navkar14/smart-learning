@@ -1,29 +1,29 @@
 
 <adjective_phrase>
 
-	<SENTENCE CAT="readable" NO="1">
+	<SENTENCE class="readable" NO="1">
 		<EXAMPLE>Mary, a good girl, reads a book in the library. | class="readable"</EXAMPLE>
 
 		<SUBJECTPHRASE >
 				
-			<SNOUN CAT="name" >  </SNOUN>
+			<SNOUN class="name" >  </SNOUN>
 
 			<SADJECTIVEPHRASE>
-				<ARTICLE TAG="name">  </ARTICLE>
-				<ADJECTIVE TAG="human">  </ADJECTIVE>
-				<CNOUN TAG="person">  </CNOUN>
+				<ARTICLE class="name">  </ARTICLE>
+				<ADJECTIVE class="human">  </ADJECTIVE>
+				<CNOUN class="person">  </CNOUN>
 			</SADJECTIVEPHRASE>
 
 		</SUBJECTPHRASE>
 
 		<VERBPHRASE>
-			<VERB TAG="readable" TENSE="past">  </VERB>
+			<VERB class="readable" TENSE="past">  </VERB>
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
 			
-			<ARTICLE TAG="c_noun">  </ARTICLE>
-			<CNOUN TAG="readable">  </CNOUN>
+			<ARTICLE class="c_noun">  </ARTICLE>
+			<CNOUN class="readable">  </CNOUN>
 
 		</OBJECTPHRASE>
 		
@@ -34,22 +34,22 @@
 
 		<SUBJECTNOUNPHRASE >
 
-			<SNOUN TAG="name" ></SNOUN>
+			<SNOUN class="name" ></SNOUN>
 
 			<SADJECTIVEPHRASE>
-				<ARTICLE TAG="p_noun"></ARTICLE>
-				<ADJECTIVE TAG="human"></ADJECTIVE>
-				<CNOUN TAG="gender"></CNOUN>
+				<ARTICLE class="p_noun"></ARTICLE>
+				<ADJECTIVE class="human"></ADJECTIVE>
+				<CNOUN class="gender"></CNOUN>
 			</SADJECTIVEPHRASE>
 
 		</SUBJECTNOUNPHRASE>
 
 		<VERBPHRASE>
-			<VERBDICT TAG="wearable"></VERBDICT>
+			<VERBDICT class="wearable"></VERBDICT>
 		</VERBPHRASE>
 		<OBJECTNOUNPHRASE>
-			<ARTICLE TAG="c_noun"></ARTICLE>
-			<CNOUN TAG="wearable"></CNOUN>
+			<ARTICLE class="c_noun"></ARTICLE>
+			<CNOUN class="wearable"></CNOUN>
 
 		</OBJECTNOUNPHRASE>
 
@@ -60,22 +60,22 @@
 
 		<SUBJECTNOUNPHRASE >
 
-			<SNOUN TAG="name" ></SNOUN>
+			<SNOUN class="name" ></SNOUN>
 
 			<SADJECTIVEPHRASE>
-				<ARTICLE TAG="p_noun"></ARTICLE>
-				<ADJECTIVE TAG="human"></ADJECTIVE>
-				<CNOUN TAG="gender"></CNOUN>
+				<ARTICLE class="p_noun"></ARTICLE>
+				<ADJECTIVE class="human"></ADJECTIVE>
+				<CNOUN class="gender"></CNOUN>
 			</SADJECTIVEPHRASE>
 
 		</SUBJECTNOUNPHRASE>
 
 		<VERBPHRASE>
-			<VERBDICT TAG="foldable"></VERBDICT>
+			<VERBDICT class="foldable"></VERBDICT>
 		</VERBPHRASE>
 		<OBJECTNOUNPHRASE>
-			<ARTICLE TAG="c_noun"></ARTICLE>
-			<CNOUN TAG="foldable"></CNOUN>
+			<ARTICLE class="c_noun"></ARTICLE>
+			<CNOUN class="foldable"></CNOUN>
 
 		</OBJECTNOUNPHRASE>
 
@@ -86,23 +86,23 @@
 
 		<SUBJECTNOUNPHRASE >
 
-			<SNOUN TAG="name" ></SNOUN>
+			<SNOUN class="name" ></SNOUN>
 
 			<SADJECTIVEPHRASE>
-				<ARTICLE TAG="p_noun"></ARTICLE>
-				<ADJECTIVE TAG="human"></ADJECTIVE>
-				<CNOUN TAG="gender"></CNOUN>
+				<ARTICLE class="p_noun"></ARTICLE>
+				<ADJECTIVE class="human"></ADJECTIVE>
+				<CNOUN class="gender"></CNOUN>
 			</SADJECTIVEPHRASE>
 
 		</SUBJECTNOUNPHRASE>
 
 		<VERBPHRASE>
-			<VERBDICT TAG="removable"></VERBDICT>
+			<VERBDICT class="removable"></VERBDICT>
 		</VERBPHRASE>
 
 		<OBJECTNOUNPHRASE>
-			<PRONOUN TAG="possessive"></PRONOUN>
-			<CNOUN TAG="removable"></CNOUN>
+			<PRONOUN class="possessive"></PRONOUN>
+			<CNOUN class="removable"></CNOUN>
 		</OBJECTNOUNPHRASE>
 
 	</SENTENCE>
