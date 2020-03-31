@@ -1,0 +1,5 @@
+
+person:female:s:lady:woman:mistress:miss:girl:
+person:male:s:gentleman:mister:boy:man:
+person:neutral:p:army:
+

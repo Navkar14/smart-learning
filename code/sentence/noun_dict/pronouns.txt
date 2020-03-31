@@ -1,0 +1,6 @@
+personal_pronoun:I;
+He:
+She
+It
+We
+They

@@ -1,0 +1,12 @@
+open:slowly:
+open:carefully:
+close:slowly:
+close:carefully:
+wrote:eagerly:
+wrote:keenly:
+read:eagerly:
+read:keenly:
+slowly:extremely:
+carefully:extremely:
+keenly:very:
+eagerly:very:

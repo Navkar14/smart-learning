@@ -1,0 +1,12 @@
+drinking:a glass of;
+drinking:a can of;
+drinking:a bottle of;
+drinking:a pint of;
+drinking:a jug full of;
+drinking:a cup of;
+filling:a glass of;
+filling:a can of;
+filling:a bottle of;
+filling:a bucket of;
+filling:a jug full of;
+filling:a cup of;

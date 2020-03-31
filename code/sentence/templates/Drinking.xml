@@ -1,0 +1,57 @@
+<!--	ALICE DRANK A CAN OF SODA AT THE CAFE.-->
+<!--	BOB DRANK A GLASS OF LEMONADE AT THE HOTEL.-->
+<SENTENCE_STRUCTURE>
+
+<SENTENCE NO="5" TYPE="1">
+<NAME>SIMPLE SENTENCE with class- drinking </NAME>
+
+	<SUBJECTNOUNPHRASE TYPE="proper_noun">
+		<SNOUN TAG="name">
+		</SNOUN>
+	</SUBJECTNOUNPHRASE>
+	
+	<VERBPHRASE>
+		<VERB CLASS="drinking" TENSE="past">
+		</VERB>
+	</VERBPHRASE>
+
+	<OBJECTPHRASE>
+		<OCNOUN TAG ="drinking"></OCNOUN>
+		<ONOUN NAME="x" CLASS="drinking">
+		</ONOUN>
+		<OPREP TAG="place">
+		</OPREP>
+		<OARTICLE TAG="the" >
+		</OARTICLE >
+		<ONOUN2 TAG="place" CLASS="drinking">
+		</ONOUN2>
+	</OBJECTPHRASE>
+</SENTENCE>
+
+<SENTENCE NO="5" TYPE="1">
+<NAME>SIMPLE SENTENCE with class- drinking </NAME>
+
+	<SUBJECTNOUNPHRASE TYPE="personal_pronoun">
+		<SNOUN TAG="name">
+		</SNOUN>
+	</SUBJECTNOUNPHRASE>
+
+	<VERBPHRASE>
+		<VERB CLASS="drinking" TENSE="past">
+		</VERB>
+	</VERBPHRASE>
+
+	<OBJECTPHRASE>
+		<OCNOUN TAG ="drinking"></OCNOUN>
+		<ONOUN NAME="x" CLASS="drinking">
+		</ONOUN>
+		<OPREP TAG="place">
+		</OPREP>
+		<OARTICLE TAG="the" >
+		</OARTICLE >
+		<ONOUN2 TAG="place" CLASS="drinking">
+		</ONOUN2>
+	</OBJECTPHRASE>
+</SENTENCE>
+</SENTENCE_STRUCTURE>
+	

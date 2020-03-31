@@ -1,0 +1,52 @@
+name
+person
+male
+female
+neutral
+place
+
+food
+    food-eatable
+        fruits
+            taste
+            colors
+            berries
+        vegetables
+            colors
+        others
+    food-dairy
+    food-drinking
+        cold
+        hot
+literary
+stationary
+vehicle
+    can-fly
+    on-road
+movement
+    fast
+    normal
+    slow
+    upwards
+    downwards
+position
+clothes
+parts-of-body
+breakable
+holdable
+wearable
+throwable
+beatable
+game
+    indoor
+        board
+        table
+    outdoor
+weapons
+    weapon-type
+        mounted
+        handheld
+    weapon-part
+buildings
+   roof-type
+   storey

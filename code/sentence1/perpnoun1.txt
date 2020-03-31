@@ -1,0 +1,14 @@
+fpss:I:
+fpso:me:my:
+fpps:we:
+fppo:us
+sps:you:
+spp:you:
+tpsms:he:
+tpsmo:his:
+tpsfs:she:
+tpsfo:her:
+tpsns:it:
+tpsno:it:
+tpps:they:
+tppo:them:

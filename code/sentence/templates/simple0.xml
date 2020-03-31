@@ -1,0 +1,110 @@
+
+<adjective_phrase>
+
+	<SENTENCE CAT="readable" NO="1">
+		<EXAMPLE>Mary, a good girl, reads a book in the library. | class="readable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN CAT="name" >  </SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE TAG="name">  </ARTICLE>
+				<ADJECTIVE TAG="human">  </ADJECTIVE>
+				<CNOUN TAG="person">  </CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB TAG="readable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE TAG="c_noun">  </ARTICLE>
+			<CNOUN TAG="readable">  </CNOUN>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+	<SENTENCE TYPE="wearable" NO="2">
+		<EXAMPLE>Mary, a good girl, wears a dress. | class="wearable"</EXAMPLE>
+
+		<SUBJECTNOUNPHRASE >
+
+			<SNOUN TAG="name" ></SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE TAG="p_noun"></ARTICLE>
+				<ADJECTIVE TAG="human"></ADJECTIVE>
+				<CNOUN TAG="gender"></CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERBDICT TAG="wearable"></VERBDICT>
+		</VERBPHRASE>
+		<OBJECTNOUNPHRASE>
+			<ARTICLE TAG="c_noun"></ARTICLE>
+			<CNOUN TAG="wearable"></CNOUN>
+
+		</OBJECTNOUNPHRASE>
+
+	</SENTENCE>
+
+	<SENTENCE TYPE="foldable" NO="3">
+		<EXAMPLE>Mary, a good girl, folds a paper. | class="foldable"</EXAMPLE>
+
+		<SUBJECTNOUNPHRASE >
+
+			<SNOUN TAG="name" ></SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE TAG="p_noun"></ARTICLE>
+				<ADJECTIVE TAG="human"></ADJECTIVE>
+				<CNOUN TAG="gender"></CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERBDICT TAG="foldable"></VERBDICT>
+		</VERBPHRASE>
+		<OBJECTNOUNPHRASE>
+			<ARTICLE TAG="c_noun"></ARTICLE>
+			<CNOUN TAG="foldable"></CNOUN>
+
+		</OBJECTNOUNPHRASE>
+
+	</SENTENCE>
+
+	<SENTENCE TYPE="removable" NO="4">
+		<EXAMPLE>Mary, a good girl, removes her shoes. | class="removable"</EXAMPLE>
+
+		<SUBJECTNOUNPHRASE >
+
+			<SNOUN TAG="name" ></SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE TAG="p_noun"></ARTICLE>
+				<ADJECTIVE TAG="human"></ADJECTIVE>
+				<CNOUN TAG="gender"></CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERBDICT TAG="removable"></VERBDICT>
+		</VERBPHRASE>
+
+		<OBJECTNOUNPHRASE>
+			<PRONOUN TAG="possessive"></PRONOUN>
+			<CNOUN TAG="removable"></CNOUN>
+		</OBJECTNOUNPHRASE>
+
+	</SENTENCE>
+</adjective_phrase>
+	

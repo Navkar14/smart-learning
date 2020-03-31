@@ -1,0 +1,7 @@
+personified:Mary:
+personified:James:
+personified:John:
+personified:Alice:
+openobject:box:
+openobject:book:
+openobject:cage:

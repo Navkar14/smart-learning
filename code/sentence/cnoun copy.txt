@@ -1,0 +1,2 @@
+giraffe.a:elephant.a:dog.a:
+vase.t:ball.t:bat.t

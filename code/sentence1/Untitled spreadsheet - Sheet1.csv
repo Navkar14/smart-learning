@@ -1,0 +1,52 @@
+verb,fps,fpp,sps,spp,tps,tpp
+go_present,go,go,go,go,goes,go
+go_present cont.,am going,are going,are going,are going,is going,are going
+go_present perf.,have gone,have gone,has gone,have gone,has gone,have gone
+go_past,went,went,went,went,went,went
+go_past perf.,had gone,had gone,had gone,had gone,had gone,had gone
+go_past cont.,was going,were going,were going,were going,was going,were going
+go_future,will go,will go,will go,will go,will go,will go
+,,,,,,
+present,drink,drink,drink,drink,drinks,drinks
+present cont.,drinking,drinking,drinking,drinking,drinking,drinking
+present perf.,,,,,,
+past,drank,drank,drank,drank,drank,drank
+past perf.,,,,,,
+past cont.,,,,,,
+future,drink,drink,drink,drink,drink,drink
+,,,,,,
+,,,,,,
+eat_present,eat,eat,eat,eat,eats,eats
+eat_present cont.,eating,eating,eating,eating,eating,eating
+eat_present perf.,,,,,,
+eat_past,ate,ate,ate,ate,ate,ate
+eat_past perf.,,,,,,
+eat_past cont.,,,,,,
+eat_future,eat,eat,eat,eat,eat,eat
+,,,,,,
+come,,,,,,
+present,,,,,,
+present cont.,,,,,,
+present perf.,,,,,,
+past,,,,,,
+past perf.,,,,,,
+past cont.,,,,,,
+future,,,,,,
+,,,,,,
+buy,,,,,,
+present,,,,,,
+present cont.,,,,,,
+present perf.,,,,,,
+past,,,,,,
+past perf.,,,,,,
+past cont.,,,,,,
+future,,,,,,
+,,,,,,
+sell,,,,,,
+present,,,,,,
+present cont.,,,,,,
+present perf.,,,,,,
+past,,,,,,
+past perf.,,,,,,
+past cont.,,,,,,
+future,,,,,,

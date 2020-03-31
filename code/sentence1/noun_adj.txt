@@ -1,0 +1,4 @@
+market:old:new:large:small:
+books:interesting:fiction:mystery:
+fruits:red:orange:tasty:
+vegetables:red:orange:tasty:

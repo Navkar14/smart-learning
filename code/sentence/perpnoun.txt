@@ -1,0 +1,8 @@
+fps:I:me:my:
+fpp:we:us:
+sps:you:
+spp:you:
+tpsm:he:his:
+tpsf:she:her:
+tpsn:it:
+tpp:they:them:

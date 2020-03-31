@@ -1,0 +1,4 @@
+personified:James:man:master:gentleman:
+personified:John:man:master:gentleman:
+personified:Alice:woman:mistress:lady:
+personified:Mary:woman:mistress:lady:

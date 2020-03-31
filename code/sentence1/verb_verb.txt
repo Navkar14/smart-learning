@@ -1,0 +1,9 @@
+go:come:
+drink:eat:cook:
+buy:sell:bring:
+give:take:lend:borrow:bring:
+walk:run:strafe:fly:swim:ride:fight:sit:stand:jump:climb:crawl:
+smell:taste:lick:feel:see:watch:
+read:think:laugh:cry:
+play:watch:dance:sing:
+read:write:open:close

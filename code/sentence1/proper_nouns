@@ -1,0 +1,27 @@
+James:name:male:s;
+Raj:name:male:s;
+Sagar:name:male:s;
+Jainam:name:male:s;
+Navkar:name:male:s;
+Yash:name:male:s;
+Abhishek:name:male:s;
+
+Mary:name:female:s;
+Bhavi:name:female:s;
+Gunjan:name:female:s;
+Urvi:name:female:s;
+Komal:name:female:s;
+Pooja:name:female:s;
+
+Taj Mahal:place:neutral:s;
+Qutub Minar:place:neutral:s;
+Statue of Liberty:neutral:s;
+India:place:neutral:s;
+Maharashtra:place:neutral::s;
+Mumbai:place:neutral:s;
+U.S.:place:neutral:p;
+Texas:place:neutral:s;
+Las Vegas:place:neutral:s;
+
+God:name:neutral:s;
+All Mighty:name:neutral:s;
