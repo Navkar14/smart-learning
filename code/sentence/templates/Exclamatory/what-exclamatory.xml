@@ -1,0 +1,40 @@
+
+<exclamatory>
+
+	<SENTENCE class="what-positive" NO="1">
+		<EXAMPLE>What a cute puppy! | class="what-positive"</EXAMPLE>
+
+
+		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
+		<SNOUN class="cuteness" >  </SNOUN>
+
+	</SENTENCE>
+
+	<SENTENCE class="what-positive" NO="2">
+		<EXAMPLE>What an intelligent young man! | class="what-positive"</EXAMPLE>
+
+
+		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
+		<SADJECTIVE class = "person"> </SADJECTIVE>>
+		<SNOUN class="cuteness" >  </SNOUN>
+
+	</SENTENCE>
+	<SENTENCE class="what-negative" NO="3">
+		<EXAMPLE>What an ugly bug! | class="what-negative"</EXAMPLE>
+
+
+		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
+		<SNOUN class="" >  </SNOUN>
+
+	</SENTENCE>
+	<SENTENCE class="what-positive" NO="4">
+		<EXAMPLE>What an intelligent move! | class="what-positive"</EXAMPLE>
+
+
+		<ADJECTIVE class="name-abstract">  </ADJECTIVE>
+		<SNOUN class="name-abstract" >  </SNOUN>
+
+	</SENTENCE>
+
+</exclamatory>
+	

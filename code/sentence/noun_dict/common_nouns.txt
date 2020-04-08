@@ -1,5 +1,10 @@
-
 person:female:s:lady:woman:mistress:miss:girl:
 person:male:s:gentleman:mister:boy:man:
 person:neutral:p:army:
-
+thing:face:body:
+thing:abstract:shape:smell:act:play:
+thing:cuteness:lovely:puppy:baby:teddy:smile:face:animal:person.:
+thing:ugliness:face:bug:baby:
+thing:fascinating:boring:intense:interesting:game:ludo:chess:tennis:match:badminton:cricket:football:
+thing:interesting:book:novel:lecture:idea:
+name-abstract:move:play:

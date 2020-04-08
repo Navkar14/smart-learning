@@ -1,5 +1,5 @@
 name:male:s:James:Raj:Sagar:Jainam:Navkar:Yash:Abhishek:
-name:female:s:Mary:Bhavi:Gunjan:Urvi:Komal:Pooja:
+name:female:s:Mary:Bhavi:Gunjan:Urvi:Komal:Pooja:Lakshmi:
 
 Taj Mahal:place:neutral:s;
 Qutub Minar:place:neutral:s;

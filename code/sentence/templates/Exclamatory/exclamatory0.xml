@@ -1,0 +1,90 @@
+
+<exclamatory>
+
+	<SENTENCE class="wish-happy" NO="1">
+		<EXAMPLE>Happy Birthday, Amy! | class="wish-happy"</EXAMPLE>
+
+		<SUBJECTPHRASE class="wish-happy">  </SUBJECTPHRASE>
+			<SNOUN class="name" >  </SNOUN>
+		
+	</SENTENCE>
+
+	<SENTENCE TYPE="wearable" NO="2">
+		<EXAMPLE>Mary, a good girl, wears a dress. | class="wearable"</EXAMPLE>
+
+		<SUBJECTNOUNPHRASE >
+
+			<SNOUN class="name" ></SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE class="p_noun"></ARTICLE>
+				<ADJECTIVE class="human"></ADJECTIVE>
+				<CNOUN class="gender"></CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERBDICT class="wearable"></VERBDICT>
+		</VERBPHRASE>
+		<OBJECTNOUNPHRASE>
+			<ARTICLE class="c_noun"></ARTICLE>
+			<CNOUN class="wearable"></CNOUN>
+
+		</OBJECTNOUNPHRASE>
+
+	</SENTENCE>
+
+	<SENTENCE TYPE="foldable" NO="3">
+		<EXAMPLE>Mary, a good girl, folds a paper. | class="foldable"</EXAMPLE>
+
+		<SUBJECTNOUNPHRASE >
+
+			<SNOUN class="name" ></SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE class="p_noun"></ARTICLE>
+				<ADJECTIVE class="human"></ADJECTIVE>
+				<CNOUN class="gender"></CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERBDICT class="foldable"></VERBDICT>
+		</VERBPHRASE>
+		<OBJECTNOUNPHRASE>
+			<ARTICLE class="c_noun"></ARTICLE>
+			<CNOUN class="foldable"></CNOUN>
+
+		</OBJECTNOUNPHRASE>
+
+	</SENTENCE>
+
+	<SENTENCE TYPE="removable" NO="4">
+		<EXAMPLE>Mary, a good girl, removes her shoes. | class="removable"</EXAMPLE>
+
+		<SUBJECTNOUNPHRASE >
+
+			<SNOUN class="name" ></SNOUN>
+
+			<SADJECTIVEPHRASE>
+				<ARTICLE class="p_noun"></ARTICLE>
+				<ADJECTIVE class="human"></ADJECTIVE>
+				<CNOUN class="gender"></CNOUN>
+			</SADJECTIVEPHRASE>
+
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERBDICT class="removable"></VERBDICT>
+		</VERBPHRASE>
+
+		<OBJECTNOUNPHRASE>
+			<PRONOUN class="possessive"></PRONOUN>
+			<CNOUN class="removable"></CNOUN>
+		</OBJECTNOUNPHRASE>
+
+	</SENTENCE>
+</exclamatory>
+	

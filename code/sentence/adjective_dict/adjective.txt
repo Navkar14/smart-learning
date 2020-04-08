@@ -1,2 +1,5 @@
-name:person:intelligent;
-name:person:good;
+person:young:muscular:
+disgust:ugly:unpleasant:bad:
+wh-pos:cute:nice:strong:good looking:pretty:lovely:
+wh-neg:ugly:hideous:foul:nasty:
+name-abstract:intelligent:clever:cunning:smart:

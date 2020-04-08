@@ -1,0 +1,4 @@
+wish-happy:Happy Birthday:Happy Anniversary:Congratulations:Thank You:
+wish-subject:to one and all:all of you:everyone:to all of you:
+disgust:Ew:Ugh:Yuk:
+
