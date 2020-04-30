@@ -1,0 +1,27 @@
+Why did he open the door and windows?
+<adjective_phrase>
+	<SENTENCE class="open" NO="1">
+		<EXAMPLE>Why did he open the door and windows? |class="open"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="open" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"></OART>
+			<OBJECT1 class="openable"> </OBJECT1>
+			<CONJ class="conjunctions"></CONJ>
+			<OBJECT2 class="openable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

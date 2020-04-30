@@ -1,0 +1,27 @@
+What paragraph is John reading from the book?
+<adjective_phrase>
+	<SENTENCE class="read" NO="1">
+		<EXAMPLE>What chapter is John reading from the book? |class="read"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<CNOUN class="english"></CNOUN>
+			<SVERB class="is" tense="present"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="read" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article">
+			<OBJECT class="readable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

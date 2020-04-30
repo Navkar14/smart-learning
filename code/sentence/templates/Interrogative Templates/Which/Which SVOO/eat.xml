@@ -1,0 +1,30 @@
+Which cuisine did Bob eat at the restaurant chinese or italian?
+<adjective_phrase>
+	<SENTENCE class="eat" NO="1">
+		<EXAMPLE>Which cuisine did Bob eat at the restaurant? |class="eat"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<CNOUN class="foodchoice" ></CNOUN>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="eat" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article"></OART>
+			<OBJECT class="eatable"> </OBJECT>
+			<OBJECT1 class="cuisine"> </OBJECT1>
+			<CONJ class="conjunctions"> </CONJ>
+			<OBJECT2 class="cuisine"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

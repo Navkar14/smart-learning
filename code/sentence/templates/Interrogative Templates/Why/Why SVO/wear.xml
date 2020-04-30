@@ -1,0 +1,25 @@
+Why did he wear that dress?
+<adjective_phrase>
+	<SENTENCE class="wear" NO="1">
+		<EXAMPLE>Why did he close the door? |class="wear"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="wear" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"></OART>
+			<OBJECT class="wearable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

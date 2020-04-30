@@ -1,0 +1,28 @@
+Where did Bob and Henry keep the keys?
+<adjective_phrase>
+	<SENTENCE class="keep" NO="1">
+		<EXAMPLE>Where did Bob keep the keys? |class="keep"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN1 class="person"</NOUN1>
+			<CONJ class="conjunctions"> </CONJ>
+			<NOUN2 class="person"</NOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="keep" tense="present"> <VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<OART class="articles" > </OART>
+			<OBJECT class="random"> </OBJECT>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

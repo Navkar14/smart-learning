@@ -1,0 +1,29 @@
+Which juice are Jack and Mary drinking from the fridge?
+<adjective_phrase>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>Which juice is Jack drinking from the fridge? |class="drink"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<CNOUN class="drink"> </CNOUN>
+			<SVERB class="is" tense="present" degree="plural"></SVERB>
+			<NOUN1 class="person"></NOUN1>
+			<CONJ class="conjunctions"></CONJ>
+			<NOUN2 class="person"></NOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="drink" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article"></OART>
+			<OBJECT class="drinkable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

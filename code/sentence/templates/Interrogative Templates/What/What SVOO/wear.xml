@@ -1,0 +1,26 @@
+What did Kim wear in the prom dress or gown?
+<adjective_phrase>
+	<SENTENCE class="wear" NO="1">
+		<EXAMPLE>What did Kim wear in the prom dress or gown? |class="wear"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="wear" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT1 class="partywear"> </OBJECT1>
+			<CONJ class="conjunction"></CONJ>
+			<OBJECT2 class="partywear"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

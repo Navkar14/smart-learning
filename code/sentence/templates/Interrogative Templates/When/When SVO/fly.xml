@@ -1,0 +1,25 @@
+When are you flying to Chicago?
+<adjective_phrase>
+	<SENTENCE class="fly" NO="1">
+		<EXAMPLE>When are you flying to Chicago? |class="fly"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="is" tense="present" degree="plural">
+			<PRONOUN class="pronoun"></PRONOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="fly" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="preposition"></OPREP>
+			<OBJECT class="country"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

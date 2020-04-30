@@ -1,0 +1,27 @@
+Where did Mary hide in the box or wardrobe?
+<adjective_phrase>
+	<SENTENCE class="hide" NO="1">
+		<EXAMPLE>Where did Mary hide in the game? |class="hide"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="hide" tense="present"> <VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<OPREP class="preposition" > </OPREP>
+			<OART class="articles" > </OART>
+			<OBJECT1 class="random"> </OBJECT1>
+			<CONJ class="conjunctions" > </CONJ>
+			<OBJECT2 class="random"> </OBJECT2>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

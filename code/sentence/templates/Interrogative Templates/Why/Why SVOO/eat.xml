@@ -1,0 +1,27 @@
+Why did he eat the chicken and bacon?
+<adjective_phrase>
+	<SENTENCE class="eat" NO="1">
+		<EXAMPLE>Why did he eat the chicken and bacon? |class="eat"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="eat" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"></OART>
+			<OBJECT1 class="eatable"> </OBJECT1>
+			<CONJ class="conjunctions"></CONJ>
+			<OBJECT2 class="eatable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

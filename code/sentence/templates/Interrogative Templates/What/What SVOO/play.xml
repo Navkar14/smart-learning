@@ -1,0 +1,27 @@
+What is Jack playing cricket or football?
+<adjective_phrase>
+	<SENTENCE class="play" NO="1">
+		<EXAMPLE>What is Jack playing cricket or football? |class="play"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="is" tense="present"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="play" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT1 class="sports"> </OBJECT1>
+			<CONJ class="conjunction"></CONJ>
+			<OBJECT2 class="sports"> </OBJECT2>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

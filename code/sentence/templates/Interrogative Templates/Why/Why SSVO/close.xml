@@ -1,0 +1,27 @@
+Why did Jack and James close the door?
+<adjective_phrase>
+	<SENTENCE class="close" NO="1">
+		<EXAMPLE>Why did Jack and James close the door? |class="close"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN1 class="person"></NOUN1>
+			<CONJ class="conjunctions"> </CONJ>
+			<NOUN2 class="person"> </NOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="close" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"></OART>
+			<OBJECT class="closable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

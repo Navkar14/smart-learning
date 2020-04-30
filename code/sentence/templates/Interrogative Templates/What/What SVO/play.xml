@@ -1,0 +1,21 @@
+What is Jack playing?
+<adjective_phrase>
+	<SENTENCE class="play" NO="1">
+		<EXAMPLE>What is Jack playing? |class="play"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="is" tense="present"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="play" tense="present"> <VERB>
+		</VERBPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

@@ -1,0 +1,26 @@
+Where did Alice go after dinner?
+<adjective_phrase>
+	<SENTENCE class="go" NO="1">
+		<EXAMPLE>Where did Alice go after dinner? |class="go"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="go" tense="present"> <VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<OART class="articles" > </OART>
+			<OBJECT class="eat"> </OBJECT>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

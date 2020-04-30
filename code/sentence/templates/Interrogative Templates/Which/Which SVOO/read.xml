@@ -1,0 +1,30 @@
+Which book is John reading from the library science or math?
+<adjective_phrase>
+	<SENTENCE class="read" NO="1">
+		<EXAMPLE>Which book is John reading from the library? |class="read"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="is" tense="present"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="play" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article"></OART>
+			<OBJECT class="readable"> </OBJECT>
+			<OBJECT1 class="book"> </OBJECT1>
+			<CONJ class="conjunctions"> </CONJ>
+			<OBJECT2 class="book"> </OBJECT2>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

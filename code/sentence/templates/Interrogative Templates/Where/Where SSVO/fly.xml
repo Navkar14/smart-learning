@@ -1,0 +1,29 @@
+Where did James and John fly in the plane?
+<adjective_phrase>
+	<SENTENCE class="fly" NO="1">
+		<EXAMPLE>Where did James fly in the plane? |class="fly"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN1 class="person"</NOUN1>
+			<CONJ class="conjunctions"> </CONJ>
+			<NOUN2 class="person"</NOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="fly" tense="present"> <VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<OPREP class="preposition"> </OPREP>
+			<OART class="articles" > </OART>
+			<OBJECT class="fly"> </OBJECT>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

@@ -1,0 +1,28 @@
+When did you go to the church morning or evening?
+<adjective_phrase>
+	<SENTENCE class="go" NO="1">
+		<EXAMPLE>When did you go to the church morning or evening? |class="go"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<PRONOUN class="pronoun"></PRONOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="go" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="preposition" ></OPREP>
+			<OART class="article"></OART>
+			<OBJECT1 class="tod"> </OBJECT1>
+			<CONJ class="conjunctions"></CONJ>
+			<OBJECT2 class="tod"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

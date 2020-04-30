@@ -1,0 +1,27 @@
+When did Mary and Ellen open the door?
+<adjective_phrase>
+	<SENTENCE class="open" NO="1">
+		<EXAMPLE>When did Mary and Ellen close the door? |class="open"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN1 class="person"></NOUN1>
+			<CONJ class="conjunctions"> </CONJ>
+			<NOUN2 class="person"></NOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="open" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"></OART>
+			<OBJECT class="openable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

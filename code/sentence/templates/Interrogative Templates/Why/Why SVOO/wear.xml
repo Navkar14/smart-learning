@@ -1,0 +1,26 @@
+Why did he wear pant and shirt?
+<adjective_phrase>
+	<SENTENCE class="wear" NO="1">
+		<EXAMPLE>Why did he wear pant and shirt? |class="wear"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="wear" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT1 class="wearable"> </OBJECT1>
+			<CONJ class="conjunctions"></CONJ>
+			<OBJECT2 class="wearable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

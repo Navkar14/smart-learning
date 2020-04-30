@@ -1,0 +1,27 @@
+What did Alice drink from the bar?
+<adjective_phrase>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>What did Alice drink from the bar? |class="drink"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+	</INTERROGATIVEPHRASE>
+
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"></NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="drink" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article"></OART>
+			<OBJECT class="drinkable"> </OBJECT>
+		</OBJECTPHRASE>
+	
+	
+	</SENTENCE>
+</adjective_phrase>

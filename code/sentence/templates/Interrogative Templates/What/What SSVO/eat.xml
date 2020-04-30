@@ -1,0 +1,28 @@
+What did Bob and James eat from the frigde?
+<adjective_phrase>
+	<SENTENCE class="eat" NO="1">
+		<EXAMPLE>What did Bob and James eat from the fridge? |class="eat"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN1 class="person"</NOUN1>
+			<CONJ class="conjunction"></CONJ>
+			<NOUN2 class="person"</NOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="eat" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article"></OART>
+			<OBJECT class="eatable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

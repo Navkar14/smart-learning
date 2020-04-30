@@ -1,0 +1,26 @@
+What did Alice drink juice or beer?
+<adjective_phrase>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>What did Alice drink juice or beer? |class="drink"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="drink" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT1 class="drinkable"> </OBJECT1>
+			<CONJ class="conjunction"></CONJ>
+			<OBJECT2 class="drinkable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

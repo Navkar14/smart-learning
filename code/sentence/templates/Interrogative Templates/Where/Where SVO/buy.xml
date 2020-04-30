@@ -1,0 +1,26 @@
+Where did Jack buy that lamp?
+<adjective_phrase>
+	<SENTENCE class="buy" NO="1">
+		<EXAMPLE>Where did Jack buy that lamp? |class="buy"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="buy" tense="present"> <VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<OADJ class="odj" > </OADJ>
+			<OBJECT class="random"> </OBJECT>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

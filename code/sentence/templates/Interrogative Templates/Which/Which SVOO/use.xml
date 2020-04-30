@@ -1,0 +1,31 @@
+Which pen is Jack using from the box red or green?
+<adjective_phrase>
+	<SENTENCE class="use" NO="1">
+		<EXAMPLE>Which pen is Jack using from the box? |class="use"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<CNOUN class="writable"></CNOUN>
+			<SVERB class="is" tense="present"></SVERB>
+			<NOUN class="person"</NOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="use" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="prep"></OPREP>
+			<OART class="article">
+			<OBJECT class="stationery"> </OBJECT>
+			<OBJECT1 class="color"> </OBJECT1>
+			<CONJ class="conjunctions"> </CONJ>
+			<OBJECT2 class="color"> </OBJECT2>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

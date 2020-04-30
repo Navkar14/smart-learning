@@ -1,0 +1,26 @@
+When did you see the accident yesterday?
+<adjective_phrase>
+	<SENTENCE class="see" NO="1">
+		<EXAMPLE>When did you see the accident yesterday? |class="see"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<PRONOUN class="pronoun"></PRONOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="see" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"></OART>
+			<OBJECT class="event"> </OBJECT>
+			<OBJECT1 class="days"> </OBJECT1>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

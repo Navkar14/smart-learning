@@ -1,0 +1,26 @@
+When did you go to the church?
+<adjective_phrase>
+	<SENTENCE class="go" NO="1">
+		<EXAMPLE>When did you go to the church? |class="go"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="do" tense="past"></SVERB>
+			<PRONOUN class="pronoun"></PRONOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="go" tense="present"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="preposition" ></OPREP>
+			<OART class="article"></OART>
+			<OBJECT class="place"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>
