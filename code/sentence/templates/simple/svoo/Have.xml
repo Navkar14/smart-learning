@@ -1,0 +1,36 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="haveable" NO="47">
+		<EXAMPLE> John had a written-test and viva at the college.|class="haveable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="haveable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="haveable">  </ARTICLE>
+			<CNOUN class="haveable"> </CNOUN>
+
+		</OBJECTPHRASE>
+
+		<OBJECTPHRASE1>
+
+			<CNOUN1 class="haveable"> </CNOUN1>
+                        <PREPOSITION class="place"> </PREPOSITION>
+			<CNOUN2 class="place">  </CNOUN2>
+			<ARTICLE1 class="place"> </ARTICLE1>
+
+		</OBJECTPHRASE1>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

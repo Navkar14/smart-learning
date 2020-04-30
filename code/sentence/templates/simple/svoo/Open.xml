@@ -1,0 +1,36 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="openable" NO="50">
+		<EXAMPLE> John opened a book and diary at the library.|class="openable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="openable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="openable">  </ARTICLE>
+			<CNOUN class="openable"> </CNOUN>
+
+		</OBJECTPHRASE>
+
+		<OBJECTPHRASE1>
+			
+			<CNOUN1 class="openable"> </CNOUN1>
+                        <PREPOSITION class="place"> </PREPOSITION>
+			<CNOUN2 class="place">  </CNOUN2>
+			<ARTICLE2 class="place"> </ARTICLE2>
+
+		</OBJECTPHRASE1>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

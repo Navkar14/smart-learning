@@ -1,0 +1,37 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="lookable" NO="48">
+		<EXAMPLE> Alice looked at the stars and moon in the sky.|class="lookable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="lookable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<PREPOSITION class="lookable"> </PREPOSITION>
+			<ARTICLE class="lookable">  </ARTICLE>
+			<CNOUN class="lookable"> </CNOUN>
+
+		</OBJECTPHRASE>
+		
+		<OBJECTPHRASE1>
+			
+			<CNOUN1 class="lookable"> </CNOUN1>
+                        <PREPOSITION1 class="place"> </PREPOSITION1>
+			<CNOUN2 class="place">  </CNOUN2>
+			<ARTICLE1 class="place"> </ARTICLE1>
+
+		</OBJECTPHRASE1>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	
