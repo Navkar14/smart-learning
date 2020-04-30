@@ -4,8 +4,17 @@
 	<SENTENCE class="what-positive" NO="1">
 		<EXAMPLE>What a cute puppy! | class="what-positive"</EXAMPLE>
 
+		<PREFIX>What</PREFIX>
+		<ADJECTIVE class="wh-positive">  </ADJECTIVE>
+		<SNOUN class="" >  </SNOUN>
 
-		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
+	</SENTENCE>
+
+	<SENTENCE class="what-negative" NO="2">
+		<EXAMPLE>What an ugly puppy! | class="what-negative"</EXAMPLE>
+
+		<PREFIX>What</PREFIX>
+		<ADJECTIVE class="wh-negative">  </ADJECTIVE>
 		<SNOUN class="" >  </SNOUN>
 
 	</SENTENCE>
@@ -14,7 +23,7 @@
 		<EXAMPLE>What an intelligent young man! | class="what-positive"</EXAMPLE>
 
 
-		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
+		<ADJECTIVE class="wh-positive">  </ADJECTIVE>
 		<SADJECTIVE class = "person"> </SADJECTIVE>>
 		<SNOUN class="cuteness" >  </SNOUN>
 

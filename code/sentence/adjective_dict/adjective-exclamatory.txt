@@ -1,0 +1,13 @@
+wh-positive:person-cuteness:cute:happy:nice:good looking:pretty:lovely:beautiful:
+wh-negative:person-ugliness:ugly:hideous:foul:nasty:ugly:unpleasant:bad:disgusting:
+wh-positive:person-clever:intelligent:clever:cunning:smart:shrewd:
+wh-positive:person-strength:young:muscular:strong
+wh-positive:person-small:little:small:tiny:short:
+wh-positive:person-big:big:tall:large:long:
+
+animal-small:little:small:tiny:short:
+animal-big:big:tall:large:long:huge:
+animal-cuteness:cute:pretty:nice:beautiful:
+animal-strength:young:muscular:strong:
+animal-clever:intelligent:clever:cunning:smart:shrewd:
+animal-dangerous:ferocious:fearful:wild:
