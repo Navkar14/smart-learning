@@ -6,7 +6,7 @@
 
 		<PREFIX>What</PREFIX>
 		<ADJECTIVE class="wh-positive">  </ADJECTIVE>
-		<SNOUN class="" >  </SNOUN>
+		<SNOUN class="*" >  </SNOUN>
 
 	</SENTENCE>
 
@@ -15,17 +15,25 @@
 
 		<PREFIX>What</PREFIX>
 		<ADJECTIVE class="wh-negative">  </ADJECTIVE>
-		<SNOUN class="" >  </SNOUN>
+		<SNOUN class="*" >  </SNOUN>
 
 	</SENTENCE>
 
-	<SENTENCE class="what-positive" NO="2">
-		<EXAMPLE>What an intelligent young man! | class="what-positive"</EXAMPLE>
+	<SENTENCE class="person" NO="3">
+		<EXAMPLE>What an intelligent young man! | class="person"</EXAMPLE>
 
+		<PREFIX>What</PREFIX>
+		<ADJECTIVE class="person">  </ADJECTIVE>
+		<SNOUN class="person" >  </SNOUN>
 
-		<ADJECTIVE class="wh-positive">  </ADJECTIVE>
-		<SADJECTIVE class = "person"> </SADJECTIVE>>
-		<SNOUN class="cuteness" >  </SNOUN>
+	</SENTENCE>
+
+	<SENTENCE class="animal" NO="4">
+		<EXAMPLE>What a cute puppy! | class="animal"</EXAMPLE>
+
+		<PREFIX>What</PREFIX>
+		<ADJECTIVE class="animal">  </ADJECTIVE>
+		<SNOUN class="animal" >  </SNOUN>
 
 	</SENTENCE>
 <!--	<SENTENCE class="what-negative" NO="3">-->
