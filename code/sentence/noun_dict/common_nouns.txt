@@ -8,6 +8,8 @@ animal:strength:s:tiger:lion:dog:rhino:gorilla:snake:
 animal:clever:s:fox:monkey:leopard:
 animal:dangerous:s:tiger:leopard:cheetah:rhino:gorilla:lion:
 animal:ugliness:s:bug:worm:insect:
+animal-fly:bug:honey bee:bird:eagle:pigeon:insect:
+thing-fly:airplane:helicopter:jet:
 thing:body:s:face:body:smile:
 thing:abstract:s:shape:smell:act:play:drawing:
 thing:cuteness:s:baby:teddy:
@@ -15,3 +17,4 @@ thing:ugliness:s:face:bug:baby:
 thing:game:s:game:ludo:chess:tennis:match:badminton:cricket:football:
 thing:interesting:s:book:novel:lecture:idea:magazine:
 name:abstract:s:move:play:
+

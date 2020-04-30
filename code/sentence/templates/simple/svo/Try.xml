@@ -1,0 +1,30 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="tryable" NO="17">
+		<EXAMPLE> Mary tried a dress at the mall.|class="tryable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="tryable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="tryable">  </ARTICLE>
+			<CNOUN class="tryable"> </CNOUN>
+                        <PREPOSITION class="place"> </PREPOSITION>
+			<CNOUN1 class="place">  </CNOUN1>
+			<ARTICLE1 class="place"> </ARTICLE1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

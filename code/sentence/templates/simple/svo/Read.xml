@@ -1,0 +1,30 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="readable" NO="13">
+		<EXAMPLE> Alex read a book in the library.|class="readable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="readable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="readable">  </ARTICLE>
+			<CNOUN class="readable"> </CNOUN>
+                        <PREPOSITION class="place"> </PREPOSITION>
+			<CNOUN1 class="place">  </CNOUN1>
+			<ARTICLE1 class="place"> </ARTICLE1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

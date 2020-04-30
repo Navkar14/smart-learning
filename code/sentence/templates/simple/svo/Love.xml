@@ -1,0 +1,30 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="loveable" NO="9">
+		<EXAMPLE> Mary loved a dog at the petshop.|class="loveable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="loveable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="loveable">  </ARTICLE>
+			<CNOUN class="loveable"> </CNOUN>
+                        <PREPOSITION class="place"> </PREPOSITION>
+			<CNOUN1 class="place">  </CNOUN1>
+			<ARTICLE1 class="place"> </ARTICLE1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

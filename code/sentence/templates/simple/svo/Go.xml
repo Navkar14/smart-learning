@@ -1,0 +1,31 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="going" NO="7">
+		<EXAMPLE> Mary went to the church in the car.|class="going"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="going" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="place">  </ARTICLE>
+			<CNOUN class="place"> </CNOUN>
+                        <PREPOSITION class="place"> </PREPOSITION>
+			<CNOUN1 class="vehicle">  </CNOUN1>
+			<PREPOSITION1 class="vehicle"> </PREPOSITION1>
+			<ARTICLE1 class="vehicle"> </ARTICLE1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

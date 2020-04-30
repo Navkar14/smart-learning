@@ -1,0 +1,30 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="flyable" NO="6">
+		<EXAMPLE>Alice flew in a helicopter to Mexico. | class="flyable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="flyable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="flyable">  </ARTICLE>
+			<CNOUN class="flyable"> </CNOUN>
+			<PREPOSITION class="flyable"> </PREPOSITION>
+			<CNOUN1 class="place">  </CNOUN1>
+			<PREPOSITION class="place"> </ARTICLE1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	
