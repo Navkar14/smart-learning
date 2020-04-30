@@ -1,0 +1,31 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="takeable" NO="36">
+		<EXAMPLE> John and Mary took cupcakes from the bakery. | class="takeable"</EXAMPLE>
+
+		<SUBJECTPHRASE>
+				
+			<SNOUN class="name" >  </SNOUN>
+			<CONJUNCTION value="and" > </CONJUNCTION>
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="takeable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<CNOUN class="takeable"> </CNOUN>
+			<CNOUN1 class="place">  </CNOUN1>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE class="place"> </ARTICLE>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

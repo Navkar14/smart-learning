@@ -71,7 +71,7 @@ class Wish:
                                 temp = i.split(":")
                                 temp.remove("\n")
                                 # print(temp)
-                                print("arr0 is : ", arr0)
+                                # print("arr0 is : ", arr0)
                                 arr0.append(random.choice(temp[3:]))
                                 arr01 = arr0[:]
 

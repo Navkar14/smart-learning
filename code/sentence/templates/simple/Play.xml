@@ -1,0 +1,31 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="playable" NO="32">
+		<EXAMPLE> Alice and John played guitars at the concert. | class="playable"</EXAMPLE>
+
+		<SUBJECTPHRASE>
+				
+			<SNOUN class="name" >  </SNOUN>
+			<CONJUNCTION value="and" > </CONJUNCTION>
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="playable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<CNOUN class="playable"> </CNOUN>
+			<CNOUN1 class="place">  </CNOUN1>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE class="place"> </ARTICLE>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	

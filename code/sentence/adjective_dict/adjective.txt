@@ -1,5 +1,13 @@
-person:young:muscular:
-disgust:ugly:unpleasant:bad:
-wh-pos:cute:nice:strong:good looking:pretty:lovely:
-wh-neg:ugly:hideous:foul:nasty:
-name-abstract:intelligent:clever:cunning:smart:
+person-cuteness:cute:nice:strong:good looking:pretty:lovely:beautiful:
+person-ugliness:ugly:hideous:foul:nasty:ugly:unpleasant:bad:disgusting:
+person-clever:intelligent:clever:cunning:smart:shrewd:
+person-strength:young:muscular:
+person-small:little:small:tiny:short:
+person-big:big:tall:large:long:
+
+animal-small:little:small:tiny:short:
+animal-big:big:tall:large:long:huge:
+animal-cuteness:cute:pretty:nice:beautiful:
+animal-strength:young:muscular:strong:
+animal-clever:intelligent:clever:cunning:smart:shrewd:
+animal-dangerous:ferocious:fearful:wild:

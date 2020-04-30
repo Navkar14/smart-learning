@@ -6,7 +6,7 @@
 
 
 		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
-		<SNOUN class="cuteness" >  </SNOUN>
+		<SNOUN class="" >  </SNOUN>
 
 	</SENTENCE>
 
@@ -19,22 +19,22 @@
 		<SNOUN class="cuteness" >  </SNOUN>
 
 	</SENTENCE>
-	<SENTENCE class="what-negative" NO="3">
-		<EXAMPLE>What an ugly bug! | class="what-negative"</EXAMPLE>
+<!--	<SENTENCE class="what-negative" NO="3">-->
+<!--		<EXAMPLE>What an ugly bug! | class="what-negative"</EXAMPLE>-->
 
 
-		<ADJECTIVE class="wh-pos">  </ADJECTIVE>
-		<SNOUN class="" >  </SNOUN>
+<!--		<ADJECTIVE class="wh-neg">  </ADJECTIVE>-->
+<!--		<SNOUN class="" >  </SNOUN>-->
 
-	</SENTENCE>
-	<SENTENCE class="what-positive" NO="4">
-		<EXAMPLE>What an intelligent move! | class="what-positive"</EXAMPLE>
+<!--	</SENTENCE>-->
+<!--	<SENTENCE class="what-positive" NO="4">-->
+<!--		<EXAMPLE>What an intelligent move! | class="what-positive"</EXAMPLE>-->
 
 
-		<ADJECTIVE class="name-abstract">  </ADJECTIVE>
-		<SNOUN class="name-abstract" >  </SNOUN>
+<!--		<ADJECTIVE class="name-abstract">  </ADJECTIVE>-->
+<!--		<SNOUN class="name-abstract" >  </SNOUN>-->
 
-	</SENTENCE>
+<!--	</SENTENCE>-->
 
 </exclamatory>
 	

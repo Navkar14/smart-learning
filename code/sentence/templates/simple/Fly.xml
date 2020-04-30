@@ -1,0 +1,30 @@
+
+<adjective_phrase>
+
+	<SENTENCE class="flyable" NO="26">
+		<EXAMPLE> John and Mary flew in a plane. | class="flyable"</EXAMPLE>
+
+		<SUBJECTPHRASE>
+				
+			<SNOUN class="name" >  </SNOUN>
+			<CONJUNCTION value="and" > </CONJUNCTION>
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="flyable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<CNOUN class="flyable"> </CNOUN>
+			<PREPOSITION class="flyable"> </PREPOSITION>
+			<ARTICLE class="flyable"> </ARTICLE>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</adjective_phrase>
+	
