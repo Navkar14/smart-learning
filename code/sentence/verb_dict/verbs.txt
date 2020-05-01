@@ -1,3 +1,4 @@
 askable:ask:query:
 drinkable:drink:gulp:
 eatable:eat:devour:
+do:do:

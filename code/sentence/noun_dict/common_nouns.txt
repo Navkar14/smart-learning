@@ -17,5 +17,6 @@ thing:ugliness:s:face:bug:baby:
 thing:game:s:game:ludo:chess:tennis:match:badminton:cricket:football:
 thing:interesting:s:book:novel:lecture:idea:magazine:
 place:literary:s:class:classroom:lecture:discussion:
+place:drinkable:s:kitchen:bar:pub:
 name:abstract:s:move:play:
 abstract:askable:p:questions:doubts:

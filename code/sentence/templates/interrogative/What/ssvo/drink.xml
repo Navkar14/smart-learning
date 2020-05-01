@@ -1,0 +1,23 @@
+<adjective_phrase>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>What did Alice and Bob drink at the bar? |class="drink"</EXAMPLE>
+	
+		<PREFIX>What</PREFIX>
+		
+		<SUBJECTPHRASE>
+			<VERB class="do" TENSE="past"> </VERB>
+			<SNOUN class="name"> </SNOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="drinkable"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE > </ARTICLE>
+			<CNOUN class="drinkable"> </CNOUN>
+		</OBJECTPHRASE>
+
+	</SENTENCE>
+</adjective_phrase>
