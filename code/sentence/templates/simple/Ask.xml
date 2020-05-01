@@ -15,11 +15,11 @@
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
-			
+			<ADVERB class="quantity"> </ADVERB>>
 			<CNOUN class="askable"> </CNOUN>
 			<PREPOSITION class="place"> </PREPOSITION>
 			<ARTICLE class="place"> </ARTICLE>
-			<CNOUN class="place">  </CNOUN>
+			<CNOUN1 class="place">  </CNOUN1>
 
 		</OBJECTPHRASE>
 		

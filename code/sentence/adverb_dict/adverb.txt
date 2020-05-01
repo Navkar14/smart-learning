@@ -2,3 +2,5 @@ verb:literary:rudely:carefully:cautiously:openly:attentively:
 verb:movement:
 verb:drinkable:gravely:deeply:cautiously:hastily:greedily:
 verb:eatable:cautiously:hastily:greedily:
+
+noun:quantity:some:many:a lot of:few:
