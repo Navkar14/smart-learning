@@ -1,5 +1,5 @@
 
-<adjective_phrase>
+<simple>
 
 	<SENTENCE class="askable" NO="21">
 		<EXAMPLE> John and Mary asked questions in the class. | class="askable"</EXAMPLE>
@@ -7,25 +7,23 @@
 		<SUBJECTPHRASE>
 				
 			<SNOUN class="name" >  </SNOUN>
-			<CONJUNCTION value="and" > </CONJUNCTION>
-			<SNOUN class="name" >  </SNOUN>
 
 		</SUBJECTPHRASE>
 
 		<VERBPHRASE>
-			<VERB class="askable" TENSE="past">  </VERB>
+			<VERB class="askable">  </VERB>
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
 			
 			<CNOUN class="askable"> </CNOUN>
-			<CNOUN1 class="place">  </CNOUN1>
 			<PREPOSITION class="place"> </PREPOSITION>
 			<ARTICLE class="place"> </ARTICLE>
+			<CNOUN class="place">  </CNOUN>
 
 		</OBJECTPHRASE>
 		
 	</SENTENCE>
 
-</adjective_phrase>
+</simple>
 	
