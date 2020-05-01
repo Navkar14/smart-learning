@@ -113,6 +113,8 @@ class AskSsvo:
                                 temp.remove("\n")
                                 arr1.append(random.choice(temp[3:]))
                         print(arr1)
+        listToStr = ' '.join(map(str, arr1))
+        print(listToStr)
 
 
 
