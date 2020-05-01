@@ -30,22 +30,23 @@ class AskSsvo:
 
                     if child.tag == "SNOUN":
                         class0 = child.attrib
-                        if class0["class"] == "name":
-                            noun_dict = open(
-                                "/Users/navkar14/Desktop/smart-learning/code/sentence/noun_dict"
-                                "/proper_nouns.txt")
 
-                            f1 = noun_dict.readlines()
-                            for i in f1:
-                                if i.find(class0["class"] + ":", 0) == 0:
-                                    temp = i.split(":")
-                                    arr0.extend(temp[3:-1])
-                            # print(arr0)
-                            arr1.append(random.choice(arr0))
-                            arr1.append("and")
-                            arr0.remove(arr1[0])
-                            arr1.append(random.choice(arr0))
-                            print(arr1)
+                        noun_dict = open(
+                            "/Users/navkar14/Desktop/smart-learning/code/sentence/noun_dict"
+                            "/proper_nouns.txt")
+
+                        f1 = noun_dict.readlines()
+                        for i in f1:
+                            if i.find(class0["class"] + ":", 0) == 0:
+                                temp = i.split(":")
+
+                                arr0.extend(temp[3:-1])
+                        # print(arr0)
+                        arr1.append(random.choice(arr0))
+                        arr1.append("and")
+                        arr0.remove(arr1[0])
+                        arr1.append(random.choice(arr0))
+                        print(arr1)
             if phrase.tag == "VERBPHRASE":
                 for child in phrase:
                     if child.tag == "VERB":
