@@ -28,4 +28,6 @@ abstract:askable:p:questions:doubts:
 abstract:cuteness:s:shape:smell:drawing:
 abstract:literary:s:poetry:poem:story:mystery:
 
+order:strong:s:mouth:nonsense:
+
 
