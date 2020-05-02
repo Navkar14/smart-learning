@@ -5,6 +5,7 @@
 		<EXAMPLE>What a cute puppy! | class="what-positive"</EXAMPLE>
 
 		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
 		<ADJECTIVE class="wh-positive">  </ADJECTIVE>
 		<SNOUN class="*" >  </SNOUN>
 
@@ -14,6 +15,7 @@
 		<EXAMPLE>What an ugly puppy! | class="what-negative"</EXAMPLE>
 
 		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
 		<ADJECTIVE class="wh-negative">  </ADJECTIVE>
 		<SNOUN class="*" >  </SNOUN>
 
@@ -23,6 +25,7 @@
 		<EXAMPLE>What an intelligent young man! | class="person"</EXAMPLE>
 
 		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
 		<ADJECTIVE class="person">  </ADJECTIVE>
 		<SNOUN class="person" >  </SNOUN>
 
@@ -32,26 +35,21 @@
 		<EXAMPLE>What a cute puppy! | class="animal"</EXAMPLE>
 
 		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
 		<ADJECTIVE class="animal">  </ADJECTIVE>
 		<SNOUN class="animal" >  </SNOUN>
 
 	</SENTENCE>
-<!--	<SENTENCE class="what-negative" NO="3">-->
-<!--		<EXAMPLE>What an ugly bug! | class="what-negative"</EXAMPLE>-->
 
+	<SENTENCE class="abstract" NO="5">
+		<EXAMPLE>What an intelligent move! | class="what-abstract"</EXAMPLE>
 
-<!--		<ADJECTIVE class="wh-neg">  </ADJECTIVE>-->
-<!--		<SNOUN class="" >  </SNOUN>-->
+		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
+		<ADJECTIVE class="abstract">  </ADJECTIVE>
+		<SNOUN class="abstract" >  </SNOUN>
 
-<!--	</SENTENCE>-->
-<!--	<SENTENCE class="what-positive" NO="4">-->
-<!--		<EXAMPLE>What an intelligent move! | class="what-positive"</EXAMPLE>-->
-
-
-<!--		<ADJECTIVE class="name-abstract">  </ADJECTIVE>-->
-<!--		<SNOUN class="name-abstract" >  </SNOUN>-->
-
-<!--	</SENTENCE>-->
+	</SENTENCE>
 
 </exclamatory>
 	

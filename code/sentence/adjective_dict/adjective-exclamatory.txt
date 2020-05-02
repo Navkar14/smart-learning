@@ -11,3 +11,4 @@ animal-cuteness:cute:pretty:nice:beautiful:
 animal-strength:young:muscular:strong:
 animal-clever:intelligent:clever:cunning:smart:shrewd:
 animal-dangerous:ferocious:fearful:wild:
+

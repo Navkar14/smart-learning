@@ -41,6 +41,7 @@ class DrinkSsvoInt:
                                 temp.remove("\n")
                                 # print(temp)
                                 break
+
                         arr1.append(random.choice(temp[1:]))
                         print(arr1)
                     if child.tag == "SNOUN":
