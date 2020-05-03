@@ -5,7 +5,7 @@ import random
 
 
 class AskSsvo:
-    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/simple/Ask.xml")
+    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/simple/ssvo/Ask.xml")
     # doc = Et.parse("C:\\Users\\payal\\Desktop\\Navkar\\Smart_Learning\\code\\sentence\\templates\\simple0.xml")
     root = doc.getroot()
 
