@@ -3,7 +3,7 @@ import random
 
 
 class AskSvo:
-    doc = Et.parse("C:/Users/lenova/Desktop/FYP/smart-learning-master/code/sentence/templates/SVO/Ask.xml")
+    doc = Et.parse("C:/Users/lenova/Desktop/FYP/smart-learning-master/code/sentence/templates/simple/svo/Ask.xml")
     # doc = Et.parse("C:\\Users\\payal\\Desktop\\Navkar\\Smart_Learning\\code\\sentence\\templates\\simple0.xml")
     root = doc.getroot()
 
