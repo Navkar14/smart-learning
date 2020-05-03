@@ -1,31 +1,31 @@
 
-<adjective_phrase>
+<simple>
 
 	<SENTENCE class="drinkable" NO="24">
 		<EXAMPLE> John and Mary drank juice at the cafeteria. | class="drinkable"</EXAMPLE>
 
 		<SUBJECTPHRASE>
 				
-			<SNOUN class="name" >  </SNOUN>
-			<CONJUNCTION value="and" > </CONJUNCTION>
-			<SNOUN class="name" >  </SNOUN>
+			<SNOUN1 class="name" >  </SNOUN1>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name" >  </SNOUN2>
 
 		</SUBJECTPHRASE>
 
 		<VERBPHRASE>
-			<VERB class="drinkable" TENSE="past">  </VERB>
+			<VERB class="drinkable" >  </VERB>
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
 			
 			<CNOUN class="drinkable"> </CNOUN>
-			<CNOUN1 class="place">  </CNOUN1>
 			<PREPOSITION class="place"> </PREPOSITION>
 			<ARTICLE class="place"> </ARTICLE>
+			<CNOUN1 class="foods">  </CNOUN1>
 
 		</OBJECTPHRASE>
 		
 	</SENTENCE>
 
-</adjective_phrase>
+</simple>
 	

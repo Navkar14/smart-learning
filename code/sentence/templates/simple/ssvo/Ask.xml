@@ -1,4 +1,3 @@
-
 <simple>
 
 	<SENTENCE class="askable" NO="21">
@@ -6,7 +5,9 @@
 
 		<SUBJECTPHRASE>
 				
-			<SNOUN class="name" >  </SNOUN>
+			<SNOUN1 class="name" >  </SNOUN1>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name" >  </SNOUN2>
 
 		</SUBJECTPHRASE>
 
@@ -15,7 +16,6 @@
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
-			<ADVERB class="quantity"> </ADVERB>>
 			<CNOUN class="askable"> </CNOUN>
 			<PREPOSITION class="place"> </PREPOSITION>
 			<ARTICLE class="place"> </ARTICLE>

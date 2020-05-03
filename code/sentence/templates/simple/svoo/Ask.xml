@@ -1,8 +1,8 @@
 
-<adjective_phrase>
+<simple>
 
 	<SENTENCE class="askable" NO="41">
-		<EXAMPLE>Mary asked a question and a doubt in the class. | class="askable"</EXAMPLE>
+		<EXAMPLE>Mary asked questions and doubts in the class. | class="askable"</EXAMPLE>
 
 		<SUBJECTPHRASE >
 				
@@ -11,27 +11,21 @@
 		</SUBJECTPHRASE>
 
 		<VERBPHRASE>
-			<VERB class="askable" TENSE="past">  </VERB>
+			<VERB class="askable">  </VERB>
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
-			
-			<ARTICLE class="askable">  </ARTICLE>
+
 			<CNOUN class="askable"> </CNOUN>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<CNOUN1 class="askable"> </CNOUN1>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE1 class="place"> </ARTICLE1>
+			<CNOUN2 class="place">  </CNOUN2>
 
 		</OBJECTPHRASE>
 		
-   		<OBJECTPHRASE1>
-			
-			<ARTICLE1 class="askable">  </ARTICLE1>
-			<CNOUN1 class="askable"> </CNOUN1>
-			<CNOUN2 class="place">  </CNOUN2>
-			<PREPOSITION class="place"> </PREPOSITION>
-			<ARTICLE2 class="place"> </ARTICLE2>
-
-		</OBJECTPHRASE1>
-		
 	</SENTENCE>
 
-</adjective_phrase>
+</simple>
 	

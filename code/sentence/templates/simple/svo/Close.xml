@@ -1,7 +1,7 @@
 
-<adjective_phrase>
+<simple>
 
-	<SENTENCE class="closable" NO="3">
+	<SENTENCE class="closeable" NO="3">
 		<EXAMPLE>Alice closed the door of the class. | class="closable"</EXAMPLE>
 
 		<SUBJECTPHRASE >
@@ -11,20 +11,20 @@
 		</SUBJECTPHRASE>
 
 		<VERBPHRASE>
-			<VERB class="closable" TENSE="past">  </VERB>
+			<VERB class="closeable" TENSE="past">  </VERB>
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
 			
-			<ARTICLE class="closable">  </ARTICLE>
-			<CNOUN class="closable"> </CNOUN>
-			<CNOUN1 class="place">  </CNOUN1>
+			<ARTICLE class="closeable">  </ARTICLE>
+			<CNOUN class="closeable"> </CNOUN>
 			<PREPOSITION class="place"> </PREPOSITION>
 			<ARTICLE1 class="place"> </ARTICLE1>
+			<CNOUN1 class="place">  </CNOUN1>
 
 		</OBJECTPHRASE>
 		
 	</SENTENCE>
 
-</adjective_phrase>
+</simple>
 	

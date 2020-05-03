@@ -1,8 +1,8 @@
 
-<adjective_phrase>
+<simple>
 
 	<SENTENCE class="buyable" NO="42">
-		<EXAMPLE> John bought a mat and a mop from the shop. | class="buyable"</EXAMPLE>
+		<EXAMPLE> John bought mats and shoes from the shop. | class="buyable"</EXAMPLE>
 
 		<SUBJECTPHRASE>
 				
@@ -15,23 +15,17 @@
 		</VERBPHRASE>
 
 		<OBJECTPHRASE>
-			
-			<ARTICLE class="thing">  </ARTICLE>
+
 			<CNOUN class="buyable"> </CNOUN>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<CNOUN1 class="buyable"> </CNOUN1>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE1 class="place"> </ARTICLE1>
+			<CNOUN2 class="shopping">  </CNOUN2>
 
 		</OBJECTPHRASE>
-
-		<OBJECTPHRASE1>
-			
-			<ARTICLE1 class="buyable">  </ARTICLE1>
-			<CNOUN1 class="buyable"> </CNOUN1>
-			<CNOUN2 class="place">  </CNOUN2>
-			<PREPOSITION class="place"> </PREPOSITION>
-			<ARTICLE2 class="place"> </ARTICLE2>
-
-		</OBJECTPHRASE1>
 		
 	</SENTENCE>
 
-</adjective_phrase>
+</simple>
 	
