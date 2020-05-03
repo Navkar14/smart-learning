@@ -1,4 +1,7 @@
 askable:ask:query:
 drinkable:drink:gulp:
-eatable:eat:devour:
+eatable:eat:devour:munch:
+buyable:buy:purchase:
+openable:open:
+closable:close:shut:lock:
 do:do:

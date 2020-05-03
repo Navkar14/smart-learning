@@ -18,10 +18,17 @@ thing:ugliness:s:face:bug:baby:
 thing:game:s:game:ludo:chess:tennis:match:badminton:cricket:football:
 thing:interesting:s:book:novel:lecture:idea:magazine:
 thing:literary:s:book:paper:journal:magazine:novel:
+thing:buyable:p:clothes:jewellery:books:shoes:
+thing:openable:s:door:window:book:cage:
+thing:closable:s:door:window:book:cage:
+thing:drinkable:s:juice:milk:coffee:tea:beer:
+thing:eatable:p:sandwiches:pulses:
+thing:eatable:s:hot dog:rice:salad:
 
-
+place:eatable:s:foodcourt:mess:canteen:restaurant:food stall:
 place:literary:s:class:classroom:lecture:discussion:
 place:drinkable:s:kitchen:bar:pub:
+place:shopping:s:shop:market:mall:
 
 abstract:interesting:s:move:play:game:shot:act:
 abstract:askable:p:questions:doubts:
