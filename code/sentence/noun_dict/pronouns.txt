@@ -1,6 +1,3 @@
-personal_pronoun:I;
-He:
-She
-It
-We
-They
+fp:s:I:
+tp:s:he:she:
+tp:p:they:we:

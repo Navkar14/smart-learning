@@ -8,3 +8,6 @@ do:do:
 readable:read:recite:
 bring:bring:
 pick:pick:
+literary:listens:hears:recites:reads:
+movement:runs:walks:swims:crawls:
+fly:fly:soar:
