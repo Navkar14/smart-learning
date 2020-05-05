@@ -5,3 +5,6 @@ buyable:buy:purchase:
 openable:open:
 closable:close:shut:lock:
 do:do:
+readable:read:recite:
+bring:bring:
+pick:pick:

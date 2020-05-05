@@ -35,11 +35,11 @@
 		<ORDERPHRASE>
 			<VERB class="bring" >  </VERB>
 			<ARTICLE class="noun">  </ARTICLE>
-			<CNOUN class="bring">  </CNOUN>
+			<CNOUN class="pick">  </CNOUN>
 
 		</ORDERPHRASE>
 
-		<SUBJECTPHRASE> <SNOUN class="name" >  </SNOUN> </SUBJECTPHRASE>
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
 
 	</SENTENCE>
 
@@ -53,20 +53,20 @@
 
 		</ORDERPHRASE>
 
-		<SUBJECTPHRASE> <SNOUN class="name" >  </SNOUN> </SUBJECTPHRASE>
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
 
 	</SENTENCE>
 		<SENTENCE class="order" NO="5">
 		<EXAMPLE>Drink the juice, Amy! | class="order"</EXAMPLE>
 
 		<ORDERPHRASE>
-			<VERB class="drinakble" >  </VERB>
+			<VERB class="drinkable" >  </VERB>
 			<ARTICLE class="noun">  </ARTICLE>
-			<CNOUN class="drinakble">  </CNOUN>
+			<CNOUN class="drinkable">  </CNOUN>
 
 		</ORDERPHRASE>
 
-		<SUBJECTPHRASE> <SNOUN class="name" >  </SNOUN> </SUBJECTPHRASE>
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
 
 	</SENTENCE>
 
@@ -80,7 +80,7 @@
 
 		</ORDERPHRASE>
 
-		<SUBJECTPHRASE> <SNOUN class="name" >  </SNOUN> </SUBJECTPHRASE>
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
 
 	</SENTENCE>
 
@@ -94,7 +94,7 @@
 
 		</ORDERPHRASE>
 
-		<SUBJECTPHRASE> <SNOUN class="name" >  </SNOUN> </SUBJECTPHRASE>
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
 
 	</SENTENCE>
 

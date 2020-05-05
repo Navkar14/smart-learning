@@ -13,6 +13,7 @@ animal:ugliness:s:bug:worm:insect:
 animal:fly:bug:honey bee:bird:eagle:pigeon:insect:
 
 thing:fly:s:airplane:helicopter:jet:
+thing:pick:s:book:glass:plate:
 thing:body:s:face:body:smile:
 thing:cuteness:s:baby:teddy:
 thing:ugliness:s:face:baby:
@@ -25,6 +26,7 @@ thing:closable:s:door:window:book:cage:
 thing:drinkable:s:juice:milk:coffee:tea:beer:
 thing:eatable:p:sandwiches:pulses:
 thing:eatable:s:hot dog:rice:salad:
+thing:readable:book:paper:journal:
 
 place:eatable:s:foodcourt:mess:canteen:restaurant:food stall:
 place:literary:s:class:classroom:lecture:discussion:
