@@ -96,6 +96,6 @@ def how():
         listToStr = ' '.join(map(str, arr1))
         if listToStr.find("!")==-1:
             listToStr+="!"
-    return listToStr
+    return print(listToStr)
 
 how()

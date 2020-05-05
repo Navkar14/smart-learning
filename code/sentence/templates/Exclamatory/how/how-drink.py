@@ -38,7 +38,6 @@ def how():
                         break
                 arr1.append(random.choice(temp[2:]))
 
-                # arr1.append("your")
             if child.tag == "SNOUN":
                 class0=child.attrib
                 noun_dict = open(
@@ -95,6 +94,6 @@ def how():
         listToStr = ' '.join(map(str, arr1))
         if listToStr.find("!")==-1:
             listToStr+="!"
-    return listToStr
+    return print(listToStr)
 
 how()

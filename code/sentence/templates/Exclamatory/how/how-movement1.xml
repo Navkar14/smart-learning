@@ -1,35 +1,7 @@
 
 <exclamatory>
 
-	<SENTENCE class="how-literary" NO="1">
-		<EXAMPLE>How well he listens! | class="literary"</EXAMPLE>
 
-		<PREFIX>How</PREFIX>
-		<ADVERB class="literary"> </ADVERB>
-		<PRONOUN class="tp:s" >  </PRONOUN>
-		<VERB class="literary">  </VERB>
-
-	</SENTENCE>
-
-	<SENTENCE class="how-literary" NO="2">
-		<EXAMPLE>How well Tom listens! | class="literary"</EXAMPLE>
-
-		<PREFIX>How</PREFIX>
-		<ADVERB class="literary"> </ADVERB>
-		<SNOUN class="name" >  </SNOUN>
-		<VERB class="literary">  </VERB>
-
-	</SENTENCE>
-
-	<SENTENCE class="how-movement" NO="3">
-		<EXAMPLE>How fast Tom runs! | class="movement"</EXAMPLE>
-
-		<PREFIX>How</PREFIX>
-		<ADVERB class="movement"> </ADVERB>
-		<SNOUN class="name" >  </SNOUN>
-		<VERB class="movement">  </VERB>
-
-		</SENTENCE>
 
 
 	<SENTENCE class="how-movement" NO="4">
@@ -42,39 +14,5 @@
 
 		</SENTENCE>
 
-	<SENTENCE class="how-eatable" NO="5">
-		<EXAMPLE>How quickly he eats the fruits! | class="eatable"</EXAMPLE>
-
-		<PREFIX>How</PREFIX>
-		<ADVERB class="eatable"> </ADVERB>
-		<PRONOUN class="tp:s" >  </PRONOUN>
-		<VERB class="eatable">  </VERB>
-		<ARTICLE class="noun"> </ARTICLE>
-		<CNOUN class="eatable"> </CNOUN>
-
-	</SENTENCE>
-
-	<SENTENCE class="how-drinkable" NO="6">
-			<EXAMPLE>How greedily he drinks the juice! | class="drinkable"</EXAMPLE>
-
-			<PREFIX>How</PREFIX>
-			<ADVERB class="drinkable"> </ADVERB>
-			<PRONOUN class="pronoun" >  </PRONOUN>
-			<VERB class="drinkable">  </VERB>
-			<ARTICLE class="noun"> </ARTICLE>
-			<CNOUN class="drinkable"> </CNOUN>
-
-		</SENTENCE>
-
-	<SENTENCE class="how-fly" NO="7">
-		<EXAMPLE>How swiftly the bird flew! | class="fly"</EXAMPLE>
-
-		<PREFIX>How</PREFIX>
-		<ADVERB class="movement"> </ADVERB>
-		<ARTICLE class="noun"> </ARTICLE>>
-		<CNOUN1 class="animal:fly" >  </CNOUN1>
-		<VERB class="fly">  </VERB>
-
-		</SENTENCE>
 </exclamatory>
 	
