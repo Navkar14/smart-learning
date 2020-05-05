@@ -5,13 +5,34 @@
 		<EXAMPLE>Eww, such an ugly face! | class="such-exclamatory"</EXAMPLE>
 
 
-		<PREFIX class="such-exclamatory">  </PREFIX>
+		<PREFIX >Eww,</PREFIX>
 		<EXPRESSION>such</EXPRESSION>
 		<ARTICLE class="adjective"> </ARTICLE>
-		<ADJECTIVE class=""> </ADJECTIVE>
-		<NOUN class="thing" >  </NOUN>
+		<ADJECTIVE class="wh-negative"> </ADJECTIVE>
+		<SNOUN class="thing" >  </SNOUN>
 
 	</SENTENCE>
+	<SENTENCE class="such" NO="2">
+		<EXAMPLE>Eww, such an ugly face! | class="such-exclamatory"</EXAMPLE>
 
+
+		<PREFIX >Eww,</PREFIX>
+		<EXPRESSION>such</EXPRESSION>
+		<ARTICLE class="adjective"> </ARTICLE>
+		<ADJECTIVE class="wh-negative"> </ADJECTIVE>
+		<SNOUN class="person" >  </SNOUN>
+
+	</SENTENCE>
+	<SENTENCE class="such" NO="3">
+		<EXAMPLE>Eww, such an ugly face! | class="such-exclamatory"</EXAMPLE>
+
+
+		<PREFIX >Eww,</PREFIX>
+		<EXPRESSION>such</EXPRESSION>
+		<ARTICLE class="adjective"> </ARTICLE>
+		<ADJECTIVE class="wh-negative"> </ADJECTIVE>
+		<SNOUN class="animal" >  </SNOUN>
+
+	</SENTENCE>
 </exclamatory>
 	

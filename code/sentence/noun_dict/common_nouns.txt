@@ -1,6 +1,7 @@
 person:female:s:lady:woman:mistress:miss:girl:
 person:male:s:gentleman:mister:boy:man:
 person:neutral:p:army:
+person:ugliness:lady:mistress:woman:man:boy:girl:
 
 animal:small:s:snail:snake:puppy:cat:rabbit:chimp:dog:
 animal:big:s:tiger:lion:giraffe:hippo:gorilla:rhino:dog:
@@ -14,7 +15,7 @@ animal:fly:bug:honey bee:bird:eagle:pigeon:insect:
 thing:fly:s:airplane:helicopter:jet:
 thing:body:s:face:body:smile:
 thing:cuteness:s:baby:teddy:
-thing:ugliness:s:face:bug:baby:
+thing:ugliness:s:face:baby:
 thing:game:s:game:ludo:chess:tennis:match:badminton:cricket:football:
 thing:interesting:s:book:novel:lecture:idea:magazine:
 thing:literary:s:book:paper:journal:magazine:novel:
