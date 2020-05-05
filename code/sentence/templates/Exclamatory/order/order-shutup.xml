@@ -1,0 +1,19 @@
+
+<exclamatory>
+
+	<SENTENCE class="order" NO="7">
+		<EXAMPLE>Shut up your mouth, Amy! | class="order"</EXAMPLE>
+
+		<ORDERPHRASE>
+			<EXPRESSION>Shut up</EXPRESSION>
+			<PERSONALPRONOUN class="noun">  </PERSONALPRONOUN>
+			<CNOUN class="order">  </CNOUN>
+
+		</ORDERPHRASE>
+
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
+
+	</SENTENCE>
+
+</exclamatory>
+	

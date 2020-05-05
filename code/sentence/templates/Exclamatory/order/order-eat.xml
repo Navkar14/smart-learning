@@ -1,0 +1,22 @@
+
+<exclamatory>
+
+
+
+	<SENTENCE class="order" NO="4">
+		<EXAMPLE>Eat the veggies, Amy! | class="order"</EXAMPLE>
+
+		<ORDERPHRASE>
+			<VERB class="eatable" >  </VERB>
+			<ARTICLE class="noun">  </ARTICLE>
+			<CNOUN class="eatable">  </CNOUN>
+
+		</ORDERPHRASE>
+
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
+
+	</SENTENCE>
+
+
+</exclamatory>
+	

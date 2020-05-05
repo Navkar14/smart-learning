@@ -3,8 +3,8 @@ import xml.etree.ElementTree as Et
 import random
 
 
-class Wh_exclamatory:
-    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/exclamatory/what-exclamatory.xml")
+def what():
+    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/exclamatory/what/what.xml")
     root = doc.getroot()
 
     for sentence in root:
@@ -63,4 +63,7 @@ class Wh_exclamatory:
                                 break
 
         listToStr = ' '.join(map(str, arr1))
-        print(listToStr)
+        break
+    return listToStr
+
+what()

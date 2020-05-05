@@ -3,8 +3,8 @@ import xml.etree.ElementTree as Et
 import random
 
 
-class Wh_exclamatory:
-    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/exclamatory/order.xml")
+def order():
+    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/exclamatory/order/order-drink.xml")
     root = doc.getroot()
 
     for sentence in root:
@@ -46,23 +46,6 @@ class Wh_exclamatory:
                                 arr1.append(random.choice(temp[3:]))
                                 arr1.append("\b!")
                                 break
-            # if phrase.tag =="SUBJECTPHRASE":
-            #     for child in phrase:
-            #         if child.tag=="SNOUN":
-            #             class0 = child.attrib
-            #             temp = []
-            #             noun_dict = open(
-            #                 "/Users/navkar14/Desktop/smart-learning/code/sentence/noun_dict"
-            #                 "/common_nouns.txt")
-            #             f1 = noun_dict.readlines()
-            #             for i in f1:
-            #                 if i.find(class0["class"] + ":", 0) >= 0:
-            #                     if i.find(arr0[0]+":",0)>=0:
-            #                         temp=i.split(":")
-            #                         temp.remove("\n")
-            #                         arr1.append(random.choice(temp[3:]))
-            #                         arr1.append("\b!")
-            #                         break
 
         listToStr = ' '.join(map(str, arr1))
-        print(listToStr)
+        return listToStr

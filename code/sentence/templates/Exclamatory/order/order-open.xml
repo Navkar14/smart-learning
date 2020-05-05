@@ -1,0 +1,22 @@
+
+<exclamatory>
+
+
+
+	<SENTENCE class="order" NO="2">
+		<EXAMPLE>Shut the door, Amy! | class="order"</EXAMPLE>
+
+		<ORDERPHRASE>
+			<VERB class="openable" >  </VERB>
+			<ARTICLE class="noun">  </ARTICLE>
+			<CNOUN class="openable">  </CNOUN>
+
+		</ORDERPHRASE>
+
+		<SUBJECTPHRASE> <SNOUN class="name" >  </SNOUN> </SUBJECTPHRASE>
+
+	</SENTENCE>
+
+
+</exclamatory>
+	

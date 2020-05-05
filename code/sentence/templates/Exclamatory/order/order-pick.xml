@@ -1,0 +1,22 @@
+
+<exclamatory>
+
+
+
+	<SENTENCE class="order" NO="6">
+		<EXAMPLE>Pick up the thing, Amy! | class="order"</EXAMPLE>
+
+		<ORDERPHRASE>
+			<VERB class="pick" >  </VERB>
+			<ARTICLE class="noun">  </ARTICLE>
+			<CNOUN class="pick">  </CNOUN>
+
+		</ORDERPHRASE>
+
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
+
+	</SENTENCE>
+
+
+</exclamatory>
+	

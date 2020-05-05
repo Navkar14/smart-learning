@@ -1,0 +1,21 @@
+
+<exclamatory>
+
+	<SENTENCE class="order" NO="3">
+		<EXAMPLE>Bring the thing, Amy! | class="order"</EXAMPLE>
+
+		<ORDERPHRASE>
+			<VERB class="bring" >  </VERB>
+			<ARTICLE class="noun">  </ARTICLE>
+			<CNOUN class="pick">  </CNOUN>
+
+		</ORDERPHRASE>
+
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
+
+	</SENTENCE>
+
+
+
+</exclamatory>
+	

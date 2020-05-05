@@ -1,0 +1,20 @@
+
+<exclamatory>
+
+
+		<SENTENCE class="order" NO="5">
+		<EXAMPLE>Drink the juice, Amy! | class="order"</EXAMPLE>
+
+		<ORDERPHRASE>
+			<VERB class="drinkable" >  </VERB>
+			<ARTICLE class="noun">  </ARTICLE>
+			<CNOUN class="drinkable">  </CNOUN>
+
+		</ORDERPHRASE>
+
+		<SUBJECTPHRASE> <SNOUN class="thing" >  </SNOUN> </SUBJECTPHRASE>
+
+	</SENTENCE>
+
+</exclamatory>
+	
