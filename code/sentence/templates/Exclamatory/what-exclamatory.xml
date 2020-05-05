@@ -21,35 +21,35 @@
 
 	</SENTENCE>
 
-	<SENTENCE class="person" NO="3">
-		<EXAMPLE>What an intelligent young man! | class="person"</EXAMPLE>
+<!--	<SENTENCE class="person" NO="3">-->
+<!--		<EXAMPLE>What an intelligent young man! | class="person"</EXAMPLE>-->
 
-		<PREFIX>What</PREFIX>
-		<ARTICLE class="adjective"> </ARTICLE>
-		<ADJECTIVE class="person">  </ADJECTIVE>
-		<SNOUN class="person" >  </SNOUN>
+<!--		<PREFIX>What</PREFIX>-->
+<!--		<ARTICLE class="adjective"> </ARTICLE>-->
+<!--		<ADJECTIVE class="person">  </ADJECTIVE>-->
+<!--		<SNOUN class="person" >  </SNOUN>-->
 
-	</SENTENCE>
+<!--	</SENTENCE>-->
 
-	<SENTENCE class="animal" NO="4">
-		<EXAMPLE>What a cute puppy! | class="animal"</EXAMPLE>
+<!--	<SENTENCE class="animal" NO="4">-->
+<!--		<EXAMPLE>What a cute puppy! | class="animal"</EXAMPLE>-->
 
-		<PREFIX>What</PREFIX>
-		<ARTICLE class="adjective"> </ARTICLE>
-		<ADJECTIVE class="animal">  </ADJECTIVE>
-		<SNOUN class="animal" >  </SNOUN>
+<!--		<PREFIX>What</PREFIX>-->
+<!--		<ARTICLE class="adjective"> </ARTICLE>-->
+<!--		<ADJECTIVE class="animal">  </ADJECTIVE>-->
+<!--		<SNOUN class="animal" >  </SNOUN>-->
 
-	</SENTENCE>
+<!--	</SENTENCE>-->
 
-	<SENTENCE class="abstract" NO="5">
-		<EXAMPLE>What an intelligent move! | class="what-abstract"</EXAMPLE>
+<!--	<SENTENCE class="abstract" NO="5">-->
+<!--		<EXAMPLE>What an intelligent move! | class="what-abstract"</EXAMPLE>-->
 
-		<PREFIX>What</PREFIX>
-		<ARTICLE class="adjective"> </ARTICLE>
-		<ADJECTIVE class="abstract">  </ADJECTIVE>
-		<SNOUN class="abstract" >  </SNOUN>
+<!--		<PREFIX>What</PREFIX>-->
+<!--		<ARTICLE class="adjective"> </ARTICLE>-->
+<!--		<ADJECTIVE class="abstract">  </ADJECTIVE>-->
+<!--		<SNOUN class="abstract" >  </SNOUN>-->
 
-	</SENTENCE>
+<!--	</SENTENCE>-->
 
 </exclamatory>
 	

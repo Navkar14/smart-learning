@@ -9,7 +9,7 @@ animal:strength:s:tiger:lion:dog:rhino:gorilla:snake:
 animal:clever:s:fox:monkey:leopard:
 animal:dangerous:s:tiger:leopard:cheetah:rhino:gorilla:lion:
 animal:ugliness:s:bug:worm:insect:
-animal-fly:bug:honey bee:bird:eagle:pigeon:insect:
+animal:fly:bug:honey bee:bird:eagle:pigeon:insect:
 
 thing:fly:s:airplane:helicopter:jet:
 thing:body:s:face:body:smile:
