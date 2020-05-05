@@ -3,8 +3,8 @@ import xml.etree.ElementTree as Et
 import random
 
 
-class Wh_exclamatory:
-    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/exclamatory/how-exclamatory.xml")
+def how():
+    doc = Et.parse("/Users/navkar14/Desktop/smart-learning/code/sentence/templates/exclamatory/how/how-movement.xml")
     root = doc.getroot()
 
     for sentence in root:
@@ -95,4 +95,6 @@ class Wh_exclamatory:
         listToStr = ' '.join(map(str, arr1))
         if listToStr.find("!")==-1:
             listToStr+="!"
-        print(listToStr)
+    return listToStr
+
+how()
