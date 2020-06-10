@@ -10,3 +10,8 @@ filling:a bottle of;
 filling:a bucket of;
 filling:a jug full of;
 filling:a cup of;
+
+pair:a pair of:
+deck:a deck of:
+couple: a couple of:
+

@@ -20,13 +20,13 @@ thing:ugliness:s:face:baby:
 thing:game:s:game:ludo:chess:tennis:match:badminton:cricket:football:
 thing:interesting:s:book:novel:lecture:idea:magazine:
 thing:literary:s:book:paper:journal:magazine:novel:
-thing:buyable:p:clothes:jewellery:books:shoes:
+thing:buyable:p:clothes:jewellery:books:shoes:cards:scissors:ribbons:balloons:
 thing:openable:s:door:window:book:cage:
 thing:closable:s:door:window:book:cage:
 thing:drinkable:s:juice:milk:coffee:tea:beer:
 thing:eatable:p:sandwiches:pulses:
 thing:eatable:s:hot dog:rice:salad:
-thing:readable:book:paper:journal:
+thing:readable:s:book:paper:journal:
 
 place:eatable:s:foodcourt:mess:canteen:restaurant:food stall:
 place:literary:s:class:classroom:lecture:discussion:

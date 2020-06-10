@@ -1,0 +1,82 @@
+<compound>
+    <sentence>
+        <EXAMPLE> He goes to the market and buys some fruits. | class="go and buy"</EXAMPLE>
+        <INDCLAUSE>
+            <SUBJECTPHRASE>
+                <PRONOUN class="tp:s"> </PRONOUN>
+            </SUBJECTPHRASE>
+            <VERBPHRASE>
+                <VERB class="go"> </VERB>
+            </VERBPHRASE>
+            <OBJECTPHRASE>
+                <PREPOSITION class="place"> </PREPOSITION>
+                <ARTICLE class="place"> </ARTICLE>
+                <CNOUN class="shopping"> </CNOUN>
+            </OBJECTPHRASE>
+        </INDCLAUSE>
+        <CONJUNCTION class="join">and</CONJUNCTION>
+        <DEPCLAUSE>
+            <VERBPHRASE>
+                <VERB class="buyable"> </VERB>
+            </VERBPHRASE>
+            <OBJECTPHRASE>
+                <ADVERB class="quantity"> </ADVERB>
+                <CNOUN class="thing"> </CNOUN>
+            </OBJECTPHRASE>
+        </DEPCLAUSE>
+    </sentence>
+    <sentence>
+        <EXAMPLE> Ajay goes to the market and buys some fruits. | class="go and buy"</EXAMPLE>
+        <INDCLAUSE>
+            <SUBJECTPHRASE>
+                <SNOUN class="name"> </SNOUN>
+            </SUBJECTPHRASE>
+            <VERBPHRASE>
+                <VERB class="go"> </VERB>
+            </VERBPHRASE>
+            <OBJECTPHRASE>
+                <PREPOSITION class="place"> </PREPOSITION>
+                <ARTICLE class="place"> </ARTICLE>
+                <CNOUN class="shopping"> </CNOUN>
+            </OBJECTPHRASE>
+        </INDCLAUSE>
+        <CONJUNCTION class="join">and</CONJUNCTION>
+        <DEPCLAUSE>
+            <VERBPHRASE>
+                <VERB class="buyable"> </VERB>
+            </VERBPHRASE>
+            <OBJECTPHRASE>
+                <ADVERB class="quantity"> </ADVERB>
+                <CNOUN class="thing"> </CNOUN>
+            </OBJECTPHRASE>
+        </DEPCLAUSE>
+    </sentence>
+    <sentence>
+        <EXAMPLE> He goes to the market and buys a pair of scissors. | class="go and buy"</EXAMPLE>
+        <INDCLAUSE>
+            <SUBJECTPHRASE>
+                <PRONOUN class="tp:s"> </PRONOUN>
+            </SUBJECTPHRASE>
+            <VERBPHRASE>
+                <VERB class="go"> </VERB>
+            </VERBPHRASE>
+            <OBJECTPHRASE>
+                <PREPOSITION class="place"> </PREPOSITION>
+                <ARTICLE class="place"> </ARTICLE>
+                <CNOUN class="shopping"> </CNOUN>
+            </OBJECTPHRASE>
+        </INDCLAUSE>
+        <CONJUNCTION class="join">and</CONJUNCTION>
+        <DEPCLAUSE>
+            <VERBPHRASE>
+                <VERB class="buyable"> </VERB>
+            </VERBPHRASE>
+            <OBJECTPHRASE>
+                <CNOUN class="thing"> </CNOUN>
+                <COLNOUN class=""> </COLNOUN>
+            </OBJECTPHRASE>
+        </DEPCLAUSE>
+    </sentence>
+
+
+</compound>
